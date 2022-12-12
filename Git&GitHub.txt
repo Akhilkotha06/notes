@@ -1,0 +1,53 @@
+>>Git
+git is a command line software that keeps track of changes made to project.
+**its works by recording the changes,storing the changes.
+>Git status
+To see its current status including the current commit,any modified files,and any new files
+not tracked by git.
+>git init
+Its intializes a new git project,it creates a .git folder with all tools and necessary to maintain version.
+this command is use once in project
+>git diff
+this command is used to see differnce b/w working directory and staging area.
+>git log
+It shows the previous commit history and it shows
+**40 character code called SHA
+**the commit author
+**the date and time of commit
+**and commit message
+the code is useful to refer back to the previous commit
+>git commit
+the commit is the last step in git workflow.a commit permanently store changes from the staging area inside the repository.
+**besides that we can also type comment to that
+>git add
+It used to add the file to staging area after being edited and performs commit on it to store permanently
+>git workflow
+1.working directory
+2.staging area
+3.repository
+>git show head
+Its shows the diff b/w previous commit and the changes made
+>git reset SHA
+**First do git log then we get commit history in that we see 40 digit character for every commit.
+**the code sha if we type that we can get the previous upto that commit
+>git reset head
+We can undo the file from staging area.
+>rollback back to last commit
+**git checkout HEAD file_name
+**git diff
+>git stash
+git stash pop to retrive your work
+>git commit amend
+with that you can update your previous commit.
+>deleting branch
+git branch -d branch_name
+>new branch
+git branch new_branch
+>view currrent branch
+git branch
+>git merge Branch_name
+**With this we can merge the changes from branch_name to branch.
+**we can use this command when we create separate branch and to merge with master.
+>git remote -v
+we can see the list of remote repositorys
+>git clone local_location remote_location

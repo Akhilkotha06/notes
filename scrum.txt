@@ -1,0 +1,39 @@
+>agile is combination increment and iterative model
+principles-
+1.customers need not to wait more time
+2.we change the long modules to small shorts modules
+3.we can change according to client requirement.
+>scrum is framework created by using agile principles
+principles-
+1.product owner
+2.scrum master
+3.development team
+4.quality analyst
+1.product owner-define the feature of product,prioritize feauture according to market value,
+adjust feature and priority for every time changes and then finalize accept or reject.
+2.scrum master manages scrum project,considered as manager or coach.
+3.develops and test the software .
+>a development of 30 days is called sprint.
+>user story-a feature/module in a software.
+>epic-collection of user story
+>product backlog-list of storys given by the product owner.
+>sprint/Iteration-it is a stand-up meeting
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>core roles of product owner>>>>>>>>>>>>>>>>>>>>>>>>>>
+^product owner represents stake holders and voice of customer
+^owner is accountable for ensurig the deliver the value of business
+>>>>>>>>>>>>>>>>coreroles of scrum master>>>>>>>>>>>>>>>>
+^Accountable for removinng impediments for team to deliver goal
+^scrum master is not leader,but acts as buffer b/w teams and distractions.
+^he motivates the team member,and arrrange parties to encourage them.
+//retrospective means (complications) time to reflex on what the work and what we have improve.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>artifacts:burn down>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+^The sprint burn down chart is displayed on chart and shows remaining work in sprint backlog
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+A story ^independent^reilable
+>>>>>>>>>>>scrum board
+>store
+>TO DO
+>In progress 
+>Testing
+>Done
+>>sprint backlog- a list of work items your team plans to complete during a project sprint 

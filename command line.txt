@@ -1,0 +1,43 @@
+>>>>>>>>>>>>>>>>>>Navigation of file system>>>>>>>>>>>>>>>>>>
+>pwd-print word directory
+It dispaly current working directory and also it shows from root directory to current directory
+>mkdir-making directory
+Is used to create new directory
+>ls-list
+Its shows the content of the directory
+____-a:displays all the hideen files in directory
+____-l:displays in long format
+____-t:displays by time and last modified
+____-alt:combintion of a&l&t commands
+>cd-change directory
+It is use move through files with name of directores
+>Touch
+With this command we can create new text files
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>viewing and changing the file>>>>>>>>>>>>>>>
+>cp-copy
+It is used to copy the file from source to destination
+syn-cp file1 file2
+||syn-cp file1 file2 destination-file
+>mv-move
+It is used to move the file from source to destination
+syn-mv file1 folder
+>rm-delete the files
+__rm -r__used to delete the directory and files
+>wildcards(*)
+It is useful for selecting a group of files
+>>>>>>>>>>>>>>>>>>>redirecting input and output>>>>>>>>>>>>>>>>>>
+>Append(>>)
+It adds text directly to file
+EX:echo"Hello">>mytext.txt
+>Pipe(|)
+It transfer the output output to input command on right side.
+>cat
+Displays the content of the text documents
+>grep-global regular expression print
+It is used to search the word in the document or directory
+EX:grep 'what' reply.txt
+__-i:Its for case insensitive search
+__-R:Its for search in directories
+>>>>alias 
+It is used to assign our new to the command 
+~/.bash_profile 

@@ -1,0 +1,3 @@
+
+greastest of 3 number
+factorial
